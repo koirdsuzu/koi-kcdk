@@ -1,0 +1,3 @@
+[submodule "Team-Assistant"]
+	path = Team-Assistant
+	url = https://github.com/koirdsuzu/Team-Assistant.git
